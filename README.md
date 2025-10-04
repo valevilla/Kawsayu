@@ -2,7 +2,7 @@
 
 **KAWSAYU** (del quechua *Kawsay*, vida) es un sistema modular e innovador de **agricultura espacial en órbita baja (LEO)**, diseñado para garantizar el acceso a alimentos frescos y sostenibles tanto en el espacio como en la Tierra.  
 
-Este proyecto fue desarrollado para el **NASA Space Apps Challenge 2025** bajo el reto **"About the Challenge: Low Earth Orbit Business Models"**.
+Este proyecto se está desarrollando para el **NASA Space Apps Challenge 2025** bajo el reto **"About the Challenge: Low Earth Orbit Business Models"**.
 
 ---
 
